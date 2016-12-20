@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Gather</string>
+	<string name="tv_msg">お名前を入力してください。</string>
+	<string name="bt_save">保存</string>
+	<string name="cb_drink">ドリンク</string>
+	<string name="cb_food">フード</string>
+
+</resources>
